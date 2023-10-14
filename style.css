@@ -47,7 +47,7 @@ nav{
    color:aliceblue;
 }
 .clr{
-    background-color: transparent;
+    background-color:transparent;
    
 }
 
@@ -173,7 +173,7 @@ border: 2px solid lightblue;
         margin-bottom: 0px;
     }
     .img5{
-        height: 80vh;
+        height: 95vh;
     }
     .img6{
         height: 75vh;
