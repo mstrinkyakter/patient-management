@@ -204,4 +204,7 @@ footer .container p {
         font-size: 10px;
         text-align: center;
     }
+    .subscribe{
+        padding:0px 10px;
+    }
 }   
