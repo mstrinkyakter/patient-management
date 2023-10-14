@@ -151,10 +151,7 @@ border: 2px solid lightblue;
     color: white;
     border: none;
     background-color: #d84315;
-    padding-left: 33px;
-    padding-right: 33px;
-    padding-top: 17px;
-    padding-bottom: 17px;
+    padding: 17px 33px;
 }
 .clr2{
     color: #d84315;
@@ -176,6 +173,16 @@ border: 2px solid lightblue;
         height: 95vh;
     }
     .img6{
-        height: 75vh;
+        height: 85vh;
     }
-}
+    .input-section {
+        display: flex;
+    }
+    .subscribe, .input{
+        padding: 5px 5px;
+    }
+    .big{
+        font-size:2rem;
+        padding-right: 30px;
+    }
+}   
