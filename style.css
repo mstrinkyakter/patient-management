@@ -186,7 +186,7 @@ footer .container p {
     }
     .big{
         font-size:1.5rem;
-        padding-right: 30px;
+        padding-right:0px;
     }
     .input{
         padding:0 10px;
@@ -195,10 +195,17 @@ footer .container p {
         display: flex;
         justify-content: center;
     }
-    
-    .footer-icons{
-        display: flex;
-        justify-content: center;
+    .partner h4{
+        padding-left: 30px;
+    }
+    .partner div i{
+        padding-left: 30px;
+    }
+    .Newsletter{
+        padding-left: 30px;
+    }
+    .input-section h4{
+        display: block;
     }
     footer .container p{
         font-size: 10px;
